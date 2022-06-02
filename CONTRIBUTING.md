@@ -7,3 +7,5 @@ We love your input! We want to make contributing to this project as easy and tra
     <li>Proposing new features</li>
     <li>Becoming a maintainer</li>
 </ul>
+
+Projenin geliştirlmesine katkı sağlamak için lonelyridah, Meteserbay, selahattinkaraca kullanıcılarından herhangi biri ile iletişime geçebilirsiniz. 
