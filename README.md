@@ -29,6 +29,6 @@ Curl komutunu çalıştırdıktan sonra terminalde aşağıda yer alan çıktıy
 
 <pre>
 <i>
-    Gondericiden-Gelen-Mesaj => {"id":"1"},, Partition-Degeri => 0
+    Gondericiden-Gelen-Mesaj => {"id":"1"}, Partition-Degeri => 0
 </i>
 </pre>
